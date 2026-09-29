@@ -1,0 +1,6 @@
+{
+  "name": "HostelDesk - Hostel Complaint & Maintenance Management Portal",
+  "description": "Comprehensive hostel grievance tracking, maintenance work order dispatch, and student hostel facility management portal with multi-role dashboards for students, wardens, and technicians.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
